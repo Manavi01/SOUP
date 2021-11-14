@@ -1,0 +1,12 @@
+2
+Check response when valid email and password entered
+Email:mana123@gmail.com
+password:anv*/&&&1012345
+Login should be succesfull
+Login was not succesfull beacause of lengthy password
+3
+Check response when vaild email and password entered
+Email:manavi0101@gmail.com
+password:123@9012
+Login should be succesfull
+Login was not succesfull because of incorrect email
